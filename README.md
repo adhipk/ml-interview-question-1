@@ -75,16 +75,3 @@ After model training, you need to deploy the models on iOS and Android devices w
     
 - Communication, assumptions, and tradeoff analysis
     
-
----
-
-Let me know if you'd like this adapted for:
-
-- **Panel-style interviews** with role-based focuses (e.g., applied scientist vs ML infra engineer)
-    
-- **Pair programming variants** with partial code templates
-    
-- **Shorter screening rounds** with a narrowed scope
-    
-
-I can also prepare a scoring rubric or supplementary visuals if needed.
